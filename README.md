@@ -1,3 +1,3 @@
 # tabnews-forum
 
-Reformulação do TabNews do Felipe Dechamps
+Reformulação do TabNews
